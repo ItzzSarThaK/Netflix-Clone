@@ -4,19 +4,6 @@ A responsive, interactive web application inspired by Netflix’s frontend UI. B
 
 ---
 
-## 🌐 Live Demo
-
-> [🔗 View Live Project](https://your-demo-link.com) *(Optional)*
-
----
-
-## 📸 Preview
-
-*(Add screenshots here)*  
-![Screenshot 1](./assets/screenshot1.png)  
-![Screenshot 2](./assets/screenshot2.png)
-
----
 
 ## 🛠️ Tech Stack
 
